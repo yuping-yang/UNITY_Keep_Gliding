@@ -1,0 +1,45 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   NVIDIA
+    VRAM:     1982 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.781800 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 1.645800 ms (FindLiveObjects: 0.020000 ms CreateObjectMapping: 0.020600 ms MarkObjects: 0.238600 ms  DeleteObjects: 0.009100 ms)
+
+Platform assembly: E:\GitHub_Project\Games\Keep Gliding\Keep Gliding_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 1.005800 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 135.
+Total: 1.845500 ms (FindLiveObjects: 0.020000 ms CreateObjectMapping: 0.030000 ms MarkObjects: 0.289600 ms  DeleteObjects: 0.050600 ms)
+
+UnloadTime: 0.801600 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 1.813500 ms (FindLiveObjects: 0.052900 ms CreateObjectMapping: 0.024200 ms MarkObjects: 0.263400 ms  DeleteObjects: 0.008500 ms)
+
+UnloadTime: 0.488900 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 135.
+Total: 0.912100 ms (FindLiveObjects: 0.012700 ms CreateObjectMapping: 0.012200 ms MarkObjects: 0.151600 ms  DeleteObjects: 0.025500 ms)
+
